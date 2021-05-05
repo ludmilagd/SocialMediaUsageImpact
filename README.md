@@ -12,5 +12,9 @@ The purpose of this project is to examine the impact of social media on society 
 
   * Is the impact different by gender?
 
-#Social Media Usage and Its Impact on Society
+
+Social Media Usage and Its Impact on Society
+
+![image](https://user-images.githubusercontent.com/70984918/117204260-b0184b00-adb5-11eb-9b2e-9dabfc3bfc98.png)
+
 
