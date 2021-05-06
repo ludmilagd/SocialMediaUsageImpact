@@ -2,6 +2,10 @@
 
 The purpose of this project is to examine the impact of social media on society specifically to the suicide rate in different generations.
 
+During this analysis, data will be extracted and cleaned from several online sources. Finally, Python and Matplotlib will be used to represent the findings in attractive and powerful visualizations.
+
+Resources: Kaggle.com, ourworldindata.com and sproutsocial.com.
+
 
 Social Media and Mental Health
 
