@@ -46,5 +46,13 @@ Define Strategy and Metrics
 
 
 ![image](https://user-images.githubusercontent.com/70984918/117204260-b0184b00-adb5-11eb-9b2e-9dabfc3bfc98.png)
+![image](https://user-images.githubusercontent.com/70984918/117356959-f7680f80-ae79-11eb-8f4f-5c6633b7986c.png)
+![image](https://user-images.githubusercontent.com/70984918/117356992-0353d180-ae7a-11eb-94f9-8938b51603ab.png)
+![image](https://user-images.githubusercontent.com/70984918/117357021-0bac0c80-ae7a-11eb-8137-d5406a5e06e8.png)
+
+![image](https://user-images.githubusercontent.com/70984918/117357038-12d31a80-ae7a-11eb-84ac-03056ced5c70.png)
+
+![image](https://user-images.githubusercontent.com/70984918/117357060-19619200-ae7a-11eb-807c-75a34b6e431e.png)
+
 
 
