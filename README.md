@@ -1,37 +1,24 @@
 # Project-Social Media Usage Correlation with Suicide Rates 
 
-The purpose of this project is to examine the impact of social media on society by answering the following questions:
+The purpose of this project is to examine the impact of social media on society specifically to the suicide rate in different generations.
 
-  * Is there a correlation between suicide rate and media usage?
-  
-  * Which countries seem to show higher impact by social media?
- 
-  * Is the impact different by group age of individuals?
-
-  * Is the impact different between generations?
-
-  * Is the impact different by gender?
-
-
-Social Media Usage and Its Impact on Society
-
-Social Media Usage and Its Impact on Society
 
 Social Media and Mental Health
 
-	It is believed that social media can cause anxiety and depression.
-	How much of an impact does social media have in a society?
+It is believed that social media can cause anxiety and depression.
+How far goes the impact of social media a society?
 
 Decompose the Ask
-	Are the negative impacts of social media leading people to commit suicide?
-	Is there a correlation between suicide rate and media usage?
-	What metrics can we use to measure social media?
-	Which social media platforms are the most representative? Considerations?
-	Who? 
-	Focus? 
-	United States
-	Demographic breakdown
-	Age, gender, generation
+Are the negative impacts of social media leading people to commit suicide?
+Is there a correlation between suicide rate and media usage?
+What metrics can we use to measure social media?
+Which social media platforms are the most representative? Considerations?
+Who? 
+Focus? 
+United States
+Demographic breakdown
+Age, gender, generation
+
 Define Strategy and Metrics
  Strategy:
   	Start with a high-level overview 
