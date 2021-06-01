@@ -1,4 +1,4 @@
-# Project-Social Media Usage Correlation with Suicide Rates 
+# Social Media Usage Correlation with Suicide Rates 
 
 The purpose of this project is to examine the impact of social media on society specifically to the suicide rate in different generations.
 
